@@ -1,11 +1,13 @@
 # Hi 👋 I'm Bhagya Anjali
 
 💻 Machine Learning Enthusiast | Python Developer | AI & NLP Learner
-Passionate about building intelligent systems using Machine Learning, Python, and AI technologies. Interested in solving real-world problems and continuously improving skills in Data Science and Natural Language Processing.
+Passionate about building intelligent systems using Machine Learning, Python, and AI technologies.
+Interested in solving real-world problems and continuously improving skills in Data Science and Natural Language Processing.
 
 📍 Guntur, Andhra Pradesh, India
+
 📧 gaddebhagyaanjali2005@gmail.com
-💼 Open to Internships | Projects | Collaboration
+💼 LinkedIn: linkedin.com/in/gaddebhagyaanjali
 ---
 
 ## 🚀 About Me
@@ -15,6 +17,8 @@ Passionate about building intelligent systems using Machine Learning, Python, an
 - Currently working on NLP and Data Science projects
 
 ---
+## Tech Stack
+
 
 ## 🧠 Projects
 
@@ -38,6 +42,13 @@ Passionate about building intelligent systems using Machine Learning, Python, an
 - Git & GitHub
 
 ---
+## Certifications
+-Generative AI(L4G)
+-Machine learning using python programming-NPTEL
+-Human computer interaction-NPTEL
+-Flutter development boot camp-udemy
+-NCC-B certicicate
+-
 
 ## 🌐 Connect with me
 

@@ -6,7 +6,7 @@ Interested in solving real-world problems and continuously improving skills in D
 
 📍 Guntur, Andhra Pradesh, India
 
-📧 gaddebhagyaanjali2005@gmail.com
+📧 Email: gaddebhagyaanjali2005@gmail.com
 💼 LinkedIn: linkedin.com/in/gaddebhagyaanjali
 ---
 
@@ -41,14 +41,12 @@ Interested in solving real-world problems and continuously improving skills in D
 - Streamlit
 - Git & GitHub
 
----
-## Certifications
--Generative AI(L4G)
--Machine learning using python programming-NPTEL
--Human computer interaction-NPTEL
--Flutter development boot camp-udemy
--NCC-B certicicate
--
+🎓 Certifications
+Generative AI (L4G)
+Machine Learning using Python Programming – NPTEL
+Human Computer Interaction – NPTEL
+Flutter Development Bootcamp – Udemy
+NCC B Certificate
 
 ## 🌐 Connect with me
 

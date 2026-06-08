@@ -1,10 +1,11 @@
 # Hi 👋 I'm Bhagya Anjali
 
 💻 Machine Learning Enthusiast | Python Developer | AI & NLP Learner
+Passionate about building intelligent systems using Machine Learning, Python, and AI technologies. Interested in solving real-world problems and continuously improving skills in Data Science and Natural Language Processing.
 
-📍 Andhra Pradesh, India  
-📧 yourmail@gmail.com  
-
+📍 Guntur, Andhra Pradesh, India
+📧 gaddebhagyaanjali2005@gmail.com
+💼 Open to Internships | Projects | Collaboration
 ---
 
 ## 🚀 About Me
@@ -40,9 +41,9 @@
 
 ## 🌐 Connect with me
 
-- GitHub: https://github.com/gaddebhagyaanjali2005-blip
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Email: yourmail@gmail.com
+- GitHub: https://github.com/gaddebhagyaanjali
+- LinkedIn: https://linkedin.com/in/gaddebhagyaanjali
+- Email: gaddebhagyaanjali2005@mail.com
 
 ---
 

@@ -6,7 +6,7 @@ Interested in solving real-world problems and continuously improving skills in D
 
 📍 Guntur, Andhra Pradesh, India  
 📧 gaddebhagyaanjali2005@gmail.com  
- LinkedIn: linkedin.com/in/gaddebhagyaanjali
+
 ---
 
 ## 🚀 About Me  

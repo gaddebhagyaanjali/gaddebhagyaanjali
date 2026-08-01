@@ -1,66 +1,114 @@
-# 👋 Hi, I'm Gadde Bhagya Anjali
+# Hi 👋, I'm Gadde Bhagya Anjali
 
-### 💻 Machine Learning Engineer | AI & Computer Vision Enthusiast | Python Developer
+### 💻 Machine Learning Engineer | Computer Vision Enthusiast | AI & NLP Developer
 
-I'm a final-year B.Tech student specializing in Artificial Intelligence & Machine Learning. I enjoy building intelligent applications using Machine Learning, Computer Vision, NLP, and Data Analytics. My goal is to develop AI solutions that solve real-world problems and continuously enhance my skills in Deep Learning, MLOps, and Cloud technologies.
+I'm a final-year B.Tech student specializing in **Artificial Intelligence & Machine Learning** with hands-on experience in building AI-powered applications using **Machine Learning, Computer Vision, NLP, and Full-Stack Development**. I enjoy solving real-world problems through intelligent systems and continuously learning emerging AI technologies.
 
 📍 Guntur, Andhra Pradesh, India  
-📧 gaddebhagyaanjali2005@gmail.com
+📧 **gaddebhagyaanjali2005@gmail.com**
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Final Year B.Tech (CSE - AI & ML)
+- 🎓 Final Year B.Tech in CSE (Artificial Intelligence & Machine Learning)
 - 🤖 Passionate about Machine Learning, Computer Vision & NLP
-- 🌱 Currently learning Deep Learning, MLOps, and Generative AI
-- 💡 Interested in building end-to-end AI applications
-- ☁️ AWS Cloud Practitioner Learner
+- 🌱 Currently learning Deep Learning, MLOps & Generative AI
+- 💡 Interested in building scalable AI applications
+- ☁️ AWS Certified Cloud Practitioner
+- 🎯 Aspiring Machine Learning Engineer
 
 ---
 
 ## 🧠 Featured Projects
 
-### 🌿 Maize Leaf Disease Detection & Severity Analysis
-- YOLOv8-based object detection model
-- React + Tailwind CSS frontend
+### 🔩 MetalVision – AI Material Detection using YOLOv8
+
+An AI-powered computer vision application for real-time Copper and Aluminum scrap detection.
+
+**Highlights**
+- YOLOv8 object detection model
+- React.js + TypeScript frontend
 - FastAPI backend
-- PostgreSQL database
-- Real-time disease detection and severity prediction
+- Real-time image inference
+- PDF report generation
+- Custom dataset preparation and model training
 
-### 📄 Resume Screening System
-- NLP-based Resume Classification
-- TF-IDF Vectorization + LinearSVC
-- Streamlit deployment
-- Predicts 24 different job categories
+**Tech Stack**
 
-### 👕 Outfit Recommendation System
-- Machine Learning-based fashion recommendation
-- Personalized clothing suggestions
-- Built using Python & Scikit-learn
-
-### 📊 Retail Sales Data Analysis
-- Exploratory Data Analysis (EDA)
-- Business insights using Pandas, NumPy & Matplotlib
-- Interactive visualizations
+`Python` `YOLOv8` `FastAPI` `React.js` `TypeScript` `Tailwind CSS` `PostgreSQL` `Git`
 
 ---
 
-## 💻 Tech Stack
+### 🌿 Maize Leaf Disease Detection using YOLOv8
+
+A deep learning solution for early detection and severity analysis of maize leaf diseases.
+
+**Highlights**
+
+- YOLOv8 object detection
+- Disease localization
+- Agricultural AI application
+- FastAPI backend
+- React frontend
+
+**Tech Stack**
+
+`Python` `YOLOv8` `OpenCV` `FastAPI` `React.js`
+
+---
+
+### 📄 Resume Screening System
+
+An NLP-based Resume Classification system that predicts job categories automatically.
+
+**Highlights**
+
+- TF-IDF Vectorization
+- LinearSVC Classification
+- Streamlit Deployment
+- Resume classification across 24 job categories
+
+**Tech Stack**
+
+`Python` `NLP` `Scikit-learn` `Streamlit` `Pandas`
+
+---
+
+### 📊 Retail Sales Data Analysis
+
+Performed Exploratory Data Analysis on retail sales data to uncover business insights.
+
+**Highlights**
+
+- Data Cleaning
+- Visualization
+- Business Analytics
+- Interactive Charts
+
+**Tech Stack**
+
+`Python` `Pandas` `NumPy` `Matplotlib`
+
+---
+
+## 💻 Technical Skills
 
 ### Languages
 - Python
-- SQL
 - C
+- Java
+- TypeScript
 
 ### Machine Learning
 - Scikit-learn
 - Pandas
 - NumPy
+- Computer Vision
 - NLP
 - YOLOv8
 
-### Web Development
+### Web Technologies
 - FastAPI
 - React.js
 - HTML
@@ -68,9 +116,14 @@ I'm a final-year B.Tech student specializing in Artificial Intelligence & Machin
 - Tailwind CSS
 - Streamlit
 
-### Database & Cloud
+### Database
 - PostgreSQL
-- AWS (EC2, S3, IAM)
+- SQL
+
+### Cloud
+- AWS EC2
+- AWS S3
+- AWS IAM
 
 ### Tools
 - Git
@@ -82,52 +135,36 @@ I'm a final-year B.Tech student specializing in Artificial Intelligence & Machin
 
 ## 🏆 Certifications
 
-- AWS Cloud Practitioner (CLF-C02)
-- NPTEL – Human Computer Interaction (Elite)
-- Generative AI (L4G)
-- Flutter Development Bootcamp
-- NCC B Certificate (A Grade)
+- AWS Certified Cloud Practitioner (CLF-C02)
+- Machine Learning Using Python – NPTEL
+- Introduction to Large Language Models – NPTEL
+- Generative AI – Google Cloud
+- Human Computer Interaction – NPTEL
+- NCC 'B' Certificate
 
 ---
 
-## 📈 Currently Working On
+## 🎯 Current Focus
 
-- Explainable AI
 - Computer Vision
-- Deepfake Detection
-- MLOps
-- Research in AI
-
----
-
-## 🌱 Learning
-
+- Machine Learning
 - Deep Learning
-- TensorFlow
-- PyTorch
-- Docker
-- Kubernetes
-- LLMs & Generative AI
+- Generative AI
+- MLOps
+- Open Source AI
 
 ---
 
-## 🎯 Career Goals
+## 📫 Connect with Me
 
-- Become a Machine Learning Engineer
-- Build scalable AI products
-- Publish AI research
-- Contribute to Open Source
-- Learn MLOps & Cloud Deployment
+💼 LinkedIn  
+https://linkedin.com/in/gaddebhagyaanjali
 
----
+💻 GitHub  
+https://github.com/gaddebhagyaanjali
 
-## 🌐 Connect With Me
-
-💼 LinkedIn: https://linkedin.com/in/gaddebhagyaanjali
-
-💻 GitHub: https://github.com/gaddebhagyaanjali
-
-📧 Email: gaddebhagyaanjali2005@gmail.com
+📧 Email  
+gaddebhagyaanjali2005@gmail.com
 
 ---
 

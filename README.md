@@ -167,5 +167,9 @@ https://github.com/gaddebhagyaanjali
 gaddebhagyaanjali2005@gmail.com
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com?user=gaddebhagyaanjali)](https://git.io/streak-stats)
+![Bhagya's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaddebhagyaanjali&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaddebhagyaanjali&layout=compact)
+[![My Skills](https://skillicons.dev/icons?i=python,react,fastapi,git,github,postgres,aws,html,css,tailwind,vscode)](https://skillicons.dev)
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.

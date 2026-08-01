@@ -1,21 +1,20 @@
-# Hi 👋, I'm Gadde Bhagya Anjali
+# 👋 Hi, I'm Gadde Bhagya Anjali
 
 ### 💻 Machine Learning Engineer | Computer Vision Enthusiast | AI & NLP Developer
 
-I'm a final-year B.Tech student specializing in **Artificial Intelligence & Machine Learning** with hands-on experience in building AI-powered applications using **Machine Learning, Computer Vision, NLP, and Full-Stack Development**. I enjoy solving real-world problems through intelligent systems and continuously learning emerging AI technologies.
+I'm a final-year B.Tech student specializing in Artificial Intelligence & Machine Learning with hands-on experience in Machine Learning, Computer Vision, NLP, and Full-Stack AI application development. I enjoy building intelligent solutions that solve real-world problems and continuously expanding my knowledge in AI and emerging technologies.
 
 📍 Guntur, Andhra Pradesh, India  
-📧 **gaddebhagyaanjali2005@gmail.com**
+📧 gaddebhagyaanjali2005@gmail.com
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 Final Year B.Tech in CSE (Artificial Intelligence & Machine Learning)
-- 🤖 Passionate about Machine Learning, Computer Vision & NLP
-- 🌱 Currently learning Deep Learning, MLOps & Generative AI
-- 💡 Interested in building scalable AI applications
+- 🤖 Passionate about Machine Learning, Computer Vision, and NLP
 - ☁️ AWS Certified Cloud Practitioner
+- 🌱 Currently learning Deep Learning, MLOps, and Generative AI
 - 🎯 Aspiring Machine Learning Engineer
 
 ---
@@ -24,112 +23,49 @@ I'm a final-year B.Tech student specializing in **Artificial Intelligence & Mach
 
 ### 🔩 MetalVision – AI Material Detection using YOLOv8
 
-An AI-powered computer vision application for real-time Copper and Aluminum scrap detection.
+Developed an AI-powered computer vision application for real-time Copper and Aluminum scrap detection with image inference and PDF report generation.
 
-**Highlights**
-- YOLOv8 object detection model
-- React.js + TypeScript frontend
-- FastAPI backend
-- Real-time image inference
-- PDF report generation
-- Custom dataset preparation and model training
-
-**Tech Stack**
-
-`Python` `YOLOv8` `FastAPI` `React.js` `TypeScript` `Tailwind CSS` `PostgreSQL` `Git`
+**Technologies Used:** Python, YOLOv8, FastAPI, React.js, TypeScript, Tailwind CSS, PostgreSQL, Git, GitHub
 
 ---
 
 ### 🌿 Maize Leaf Disease Detection using YOLOv8
 
-A deep learning solution for early detection and severity analysis of maize leaf diseases.
+Built a deep learning model for maize leaf disease detection and severity analysis to support early diagnosis in agriculture.
 
-**Highlights**
-
-- YOLOv8 object detection
-- Disease localization
-- Agricultural AI application
-- FastAPI backend
-- React frontend
-
-**Tech Stack**
-
-`Python` `YOLOv8` `OpenCV` `FastAPI` `React.js`
+**Technologies Used:** Python, YOLOv8, OpenCV, FastAPI, React.js, PostgreSQL
 
 ---
 
 ### 📄 Resume Screening System
 
-An NLP-based Resume Classification system that predicts job categories automatically.
+Developed an NLP-based application that automatically classifies resumes into different job categories using Machine Learning.
 
-**Highlights**
-
-- TF-IDF Vectorization
-- LinearSVC Classification
-- Streamlit Deployment
-- Resume classification across 24 job categories
-
-**Tech Stack**
-
-`Python` `NLP` `Scikit-learn` `Streamlit` `Pandas`
+**Technologies Used:** Python, Scikit-learn, NLP, TF-IDF, LinearSVC, Streamlit, Pandas, Git, GitHub
 
 ---
 
 ### 📊 Retail Sales Data Analysis
 
-Performed Exploratory Data Analysis on retail sales data to uncover business insights.
+Performed exploratory data analysis to identify business insights using data visualization and statistical analysis.
 
-**Highlights**
-
-- Data Cleaning
-- Visualization
-- Business Analytics
-- Interactive Charts
-
-**Tech Stack**
-
-`Python` `Pandas` `NumPy` `Matplotlib`
+**Technologies Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 
 ---
 
 ## 💻 Technical Skills
 
-### Languages
-- Python
-- C
-- Java
-- TypeScript
+**Programming Languages:** Python, C, Java, TypeScript
 
-### Machine Learning
-- Scikit-learn
-- Pandas
-- NumPy
-- Computer Vision
-- NLP
-- YOLOv8
+**Machine Learning:** Scikit-learn, Pandas, NumPy, Computer Vision, NLP, YOLOv8
 
-### Web Technologies
-- FastAPI
-- React.js
-- HTML
-- CSS
-- Tailwind CSS
-- Streamlit
+**Web Technologies:** FastAPI, React.js, Streamlit, HTML, CSS, Tailwind CSS
 
-### Database
-- PostgreSQL
-- SQL
+**Database:** PostgreSQL, SQL
 
-### Cloud
-- AWS EC2
-- AWS S3
-- AWS IAM
+**Cloud:** AWS EC2, AWS S3, AWS IAM
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+**Tools:** Git, GitHub, VS Code, Jupyter Notebook
 
 ---
 
@@ -146,8 +82,8 @@ Performed Exploratory Data Analysis on retail sales data to uncover business ins
 
 ## 🎯 Current Focus
 
-- Computer Vision
 - Machine Learning
+- Computer Vision
 - Deep Learning
 - Generative AI
 - MLOps
@@ -155,18 +91,16 @@ Performed Exploratory Data Analysis on retail sales data to uncover business ins
 
 ---
 
-## 📫 Connect with Me
+## 🌐 Connect with Me
 
-💼 LinkedIn  
-https://linkedin.com/in/gaddebhagyaanjali
+💼 LinkedIn: https://linkedin.com/in/gaddebhagyaanjali
 
-💻 GitHub  
-https://github.com/gaddebhagyaanjali
+💻 GitHub: https://github.com/gaddebhagyaanjali
 
-📧 Email  
-gaddebhagyaanjali2005@gmail.com
+📧 Email: gaddebhagyaanjali2005@gmail.com
 
 ---
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=gaddebhagyaanjali)](https://git.io/streak-stats)
 ![Bhagya's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaddebhagyaanjali&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaddebhagyaanjali&layout=compact)

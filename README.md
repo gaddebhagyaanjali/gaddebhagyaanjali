@@ -45,6 +45,15 @@ I have hands-on experience in Machine Learning, Computer Vision, NLP, and full-s
 
 ## 🚀 Featured Projects
 
+### 📊 BusinessIQ-AI – AI-Powered Business Intelligence Platform
+
+- Developed an AI-powered business intelligence application to help users analyze business data and generate actionable insights.
+- Built backend services using FastAPI and integrated them with a React-based frontend.
+- Deployed the application on an AWS EC2 instance.
+- Worked with Linux server configuration, API integration, and application deployment.
+- Used Git and GitHub for version control and project management.
+
+**Tech Stack:** Python, FastAPI, React.js, Vite, AWS EC2, Linux, Git, GitHub
 ### 🔩 MetalVision – AI-Based Scrap Material Detection
 - Developed a computer vision application for Copper and Aluminum scrap detection.
 - Integrated YOLOv8 with FastAPI and React.

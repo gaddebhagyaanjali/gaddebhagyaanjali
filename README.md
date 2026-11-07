@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bhagya Anjali Gadde
+# 👋 Hi, I'm Gadde Bhagya Anjali
 
 ### AI & Machine Learning Enthusiast | Computer Vision | Cloud & DevOps
 

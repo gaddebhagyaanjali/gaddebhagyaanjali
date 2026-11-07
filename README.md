@@ -1,8 +1,10 @@
-# 👋 Hi, I'm Gadde Bhagya Anjali
+# 👋 Hi, I'm Bhagya Anjali Gadde
 
-### 💻 Machine Learning Engineer | Computer Vision Enthusiast | AI & NLP Developer
+### AI & Machine Learning Enthusiast | Computer Vision | Cloud & DevOps
 
-I'm a final-year B.Tech student specializing in Artificial Intelligence & Machine Learning with hands-on experience in Machine Learning, Computer Vision, NLP, and Full-Stack AI application development. I enjoy building intelligent solutions that solve real-world problems and continuously expanding my knowledge in AI and emerging technologies.
+I'm a B.Tech student specializing in Computer Science and Engineering (Artificial Intelligence & Machine Learning), passionate about building intelligent applications and exploring emerging technologies.
+
+I have hands-on experience in Machine Learning, Computer Vision, NLP, and full-stack AI application development. I'm also expanding my knowledge of AWS, Linux, Docker, and Cloud technologies.
 
 📍 Guntur, Andhra Pradesh, India  
 📧 gaddebhagyaanjali2005@gmail.com
@@ -11,99 +13,110 @@ I'm a final-year B.Tech student specializing in Artificial Intelligence & Machin
 
 ## 🚀 About Me
 
-- 🎓 Final Year B.Tech in CSE (Artificial Intelligence & Machine Learning)
-- 🤖 Passionate about Machine Learning, Computer Vision, and NLP
-- ☁️ AWS Certified Cloud Practitioner
-- 🌱 Currently learning Deep Learning, MLOps, and Generative AI
-- 🎯 Aspiring Machine Learning Engineer
+- 🎓 B.Tech CSE (AI & ML) | 2027 Batch
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- ☁️ AWS Certified Cloud Practitioner (CLF-C02)
+- 💻 Experience building AI-powered applications
+- 🐳 Exploring Docker, Linux, AWS and Cloud Deployment
+- 🌱 Currently learning Deep Learning, Generative AI and MLOps
+- 🎯 Aspiring AI/ML Engineer | Exploring Cloud & DevOps
 
 ---
 
-## 🧠 Featured Projects
+## 🛠️ Technical Skills
 
-### 🔩 MetalVision – AI Material Detection using YOLOv8
+**Programming:** Python, C
 
-Developed an AI-powered computer vision application for real-time Copper and Aluminum scrap detection with image inference and PDF report generation.
+**AI & Machine Learning:** Machine Learning, Deep Learning, Computer Vision, NLP, YOLOv8, Scikit-learn
 
-**Technologies Used:** Python, YOLOv8, FastAPI, React.js, TypeScript, Tailwind CSS, PostgreSQL, Git, GitHub
+**Data Science:** Pandas, NumPy, Matplotlib, Seaborn
 
----
+**Backend Development:** FastAPI, REST APIs
 
-### 🌿 Maize Leaf Disease Detection using YOLOv8
+**Frontend Development:** React.js, TypeScript, HTML, CSS, Tailwind CSS
 
-Built a deep learning model for maize leaf disease detection and severity analysis to support early diagnosis in agriculture.
+**Databases:** SQL, PostgreSQL
 
-**Technologies Used:** Python, YOLOv8, OpenCV, FastAPI, React.js, PostgreSQL
-
----
-
-### 📄 Resume Screening System
-
-Developed an NLP-based application that automatically classifies resumes into different job categories using Machine Learning.
-
-**Technologies Used:** Python, Scikit-learn, NLP, TF-IDF, LinearSVC, Streamlit, Pandas, Git, GitHub
-
----
-
-### 📊 Retail Sales Data Analysis
-
-Performed exploratory data analysis to identify business insights using data visualization and statistical analysis.
-
-**Technologies Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
-
----
-
-## 💻 Technical Skills
-
-**Programming Languages:** Python, C, Java, TypeScript
-
-**Machine Learning:** Scikit-learn, Pandas, NumPy, Computer Vision, NLP, YOLOv8
-
-**Web Technologies:** FastAPI, React.js, Streamlit, HTML, CSS, Tailwind CSS
-
-**Database:** PostgreSQL, SQL
-
-**Cloud:** AWS EC2, AWS S3, AWS IAM
+**Cloud & DevOps:** AWS EC2, S3, IAM, Docker, Linux (Learning)
 
 **Tools:** Git, GitHub, VS Code, Jupyter Notebook
 
 ---
 
+## 🚀 Featured Projects
+
+### 🔩 MetalVision – AI-Based Scrap Material Detection
+- Developed a computer vision application for Copper and Aluminum scrap detection.
+- Integrated YOLOv8 with FastAPI and React.
+- Implemented image inference and PDF report generation.
+
+**Tech Stack:** Python, YOLOv8, FastAPI, React.js, TypeScript, PostgreSQL
+
+### 🌿 Maize Leaf Disease Detection
+- Developed a deep learning solution for maize leaf disease detection.
+- Explored disease classification and severity analysis.
+
+**Tech Stack:** Python, YOLOv8, OpenCV, FastAPI, React.js
+
+### 📄 Resume Screening System
+- Built an NLP-based resume classification application.
+- Used TF-IDF and LinearSVC to categorize resumes into job domains.
+- Developed an interactive application using Streamlit.
+
+**Tech Stack:** Python, NLP, Scikit-learn, TF-IDF, LinearSVC, Pandas
+
+### 📊 Retail Sales Data Analysis
+- Performed exploratory data analysis to identify sales trends.
+- Used statistical analysis and data visualization to extract insights.
+
+**Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn
+
+---
+
 ## 🏆 Certifications
 
-- AWS Certified Cloud Practitioner (CLF-C02)
+- AWS Certified Cloud Practitioner – CLF-C02
 - Machine Learning Using Python – NPTEL
 - Introduction to Large Language Models – NPTEL
 - Generative AI – Google Cloud
-- Human Computer Interaction – NPTEL
-- NCC 'B' Certificate
+- Human Computer Interaction – NPTEL (Elite)
+- NCC 'B' Certificate – A Grade
 
 ---
 
-## 🎯 Current Focus
+## 🌱 Currently Learning
 
-- Machine Learning
-- Computer Vision
-- Deep Learning
-- Generative AI
-- MLOps
-- Open Source AI
-
----
-
-## 🌐 Connect with Me
-
-💼 LinkedIn: https://linkedin.com/in/gaddebhagyaanjali
-
-💻 GitHub: https://github.com/gaddebhagyaanjali
-
-📧 Email: gaddebhagyaanjali2005@gmail.com
+- Deep Learning and Generative AI
+- AI Agents and RAG Applications
+- AWS Cloud Services
+- Linux and Shell Scripting
+- Docker and Containerization
+- MLOps and Cloud Deployment
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gaddebhagyaanjali)](https://git.io/streak-stats)
-![Bhagya's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaddebhagyaanjali&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaddebhagyaanjali&layout=compact)
-[![My Skills](https://skillicons.dev/icons?i=python,react,fastapi,git,github,postgres,aws,html,css,tailwind,vscode)](https://skillicons.dev)
+## 📊 GitHub Statistics
+
+![GitHub Streak](https://streak-stats.demolab.com?user=gaddebhagyaanjali)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaddebhagyaanjali&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaddebhagyaanjali&layout=compact&theme=tokyonight)
+
+---
+
+## 💻 Languages & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=python,c,react,fastapi,postgres,aws,docker,linux,git,github,html,css,tailwind,vscode)](https://skillicons.dev)
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/gaddebhagyaanjali
+- 💻 GitHub: https://github.com/gaddebhagyaanjali
+- 📧 Email: gaddebhagyaanjali2005@gmail.com
+
+---
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
